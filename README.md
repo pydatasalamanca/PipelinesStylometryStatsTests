@@ -24,4 +24,5 @@ Statistics is the grammar of Science (Pearson)
 For this reason we propose this worshop that would help you to use some univariate statistics test in Python.
 
 [Carlos Torres](https://github.com/carlostorrescubila)
+
 [Pedro Ropero](https://github.com/RoperoPedro)
