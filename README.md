@@ -29,5 +29,5 @@ For this reason we propose this worshop that would help you to use some univaria
 
 #### Código:
 
-[ANOVA](https://github.com/carlostorrescubila/Estadisitica-con-Python)
+[Notebooks](https://github.com/carlostorrescubila/Statistical-Tests-with-Scipy)
 
